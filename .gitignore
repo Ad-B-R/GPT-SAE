@@ -1,0 +1,12 @@
+sae_checkpoints/
+distilgpt2-sst2-full/
+distilgpt2-sst2-lora-r4-merged/
+distilgpt2-sst2-lora-r4/
+distilgpt2-sst2-lora-r8-merged/
+distilgpt2-sst2-lora-r8/
+distilgpt2-sst2-lora-r16-merged/
+distilgpt2-sst2-lora-r16/
+distilgpt2-sst2-lora-r32-merged/
+distilgpt2-sst2-lora-r32/
+.vscode/
+hf_cache/
